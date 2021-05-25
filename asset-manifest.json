@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mini-school-project/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/mini-school-project/static/js/main.15d9986b.chunk.js",
+    "main.js.map": "/mini-school-project/static/js/main.15d9986b.chunk.js.map",
+    "runtime-main.js": "/mini-school-project/static/js/runtime-main.162caa05.js",
+    "runtime-main.js.map": "/mini-school-project/static/js/runtime-main.162caa05.js.map",
+    "static/js/2.6841db46.chunk.js": "/mini-school-project/static/js/2.6841db46.chunk.js",
+    "static/js/2.6841db46.chunk.js.map": "/mini-school-project/static/js/2.6841db46.chunk.js.map",
+    "static/js/3.1e41328d.chunk.js": "/mini-school-project/static/js/3.1e41328d.chunk.js",
+    "static/js/3.1e41328d.chunk.js.map": "/mini-school-project/static/js/3.1e41328d.chunk.js.map",
+    "index.html": "/mini-school-project/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/mini-school-project/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.6841db46.chunk.js.LICENSE.txt": "/mini-school-project/static/js/2.6841db46.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mini-school-project/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.162caa05.js",
+    "static/js/2.6841db46.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.15d9986b.chunk.js"
+  ]
+}
